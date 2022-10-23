@@ -1,2 +1,2 @@
 # SU03
-Fully functional 9 and 3 hand position automotive grade steering wheel
+SU03 (Steering Unit version 3) - an automotive grade formula style steering wheel
