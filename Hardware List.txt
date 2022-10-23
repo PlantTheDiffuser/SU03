@@ -6,3 +6,5 @@
 24x M3 x 0.5 Hex Nut
 
 06x M5 x 45mm Countersunk Bolt
+
+Pull Test
