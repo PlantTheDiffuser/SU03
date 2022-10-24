@@ -6,3 +6,4 @@
 24x M3 x 0.5 Hex Nut
 
 06x M5 x 45mm Countersunk Bolt
+06x M5 x 0.8 Hex Nut (optional)
