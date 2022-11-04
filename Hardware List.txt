@@ -1,7 +1,7 @@
 10x M3 x 30mm Bolt
 04x M3 x 25mm Bolt
 04x M3 x 10mm Bolt
-08x M3 x 08mm Bolt
+12x M3 x 08mm Bolt
 
 24x M3 x 0.5 Hex Nut
 
